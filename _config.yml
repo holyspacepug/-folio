@@ -1,11 +1,11 @@
 # Site settings
-title: HolySpacePug 
-email: you@example.com
+title: Mike Lee's Website 
+email: Email@thatmike.com
 description: > # this means to ignore newlines until "baseurl:"
   The Official Website of Mike Lee
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: ThatMikeDotCom
 github_username:  
 
 # Build settings
@@ -22,8 +22,5 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]

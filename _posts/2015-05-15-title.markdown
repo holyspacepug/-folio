@@ -1,30 +1,45 @@
 ---
 layout: post
-title:  a post with images
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
+title: Esports - Putting the "Fort" in Fortnite 
+date: 2018-07-22 20:0:00
+description: Is the "Fort" part of Fortnite so important?
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Fingerstache four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. 
+Fortnite is a game that is wildly popular with the rising trend of Battle Royale games appearing everywhere. However, while it has an age rating of 12 the game seems to be increasingly popular for kids around that age. Although there are no reliable statistics to prove it, players of the game can often corroborate that a good chunk of the playerbase are young children.
 
 <div class="img_row">
-	<img class="col three" src="/img/9.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/kid-fortnite.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/fortnite-banner.jpg">
 </div>
+
+One of the reasons that is seemingly untalked about is the "fort" aspect of Fortnite. Players are usually split between the implementation of this aspect of the game, due to the fact that fort building prolongs skirmishes or the overall advantage that it provides during fights. What players don't usually realize is that the element of fort building is intentional and a vital aspect of why there is such a phenomenon surrounding Fortnite. Otherwise, it would just be one of the many other Battle Royale games out there.
+
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/9.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/pubg.jpg">
+	<img class="col one" src="{{ site.baseurl}}/img/h1z1.jpg">
+</div>
+
+The fort building is about control. While there are various aspects of control in a shooter, such as the kind of equipment utility you have, the number of teammates alive, etc., fort building adds another layer on top. But it's not as shallow as simply adding another twist to a Battle Royale.
+
+There is a primal part about fort building that no one is an exception to. Kids have a desire to explore, destroy, and create something of their own. This often materializes in the form of fortresses in the nearby forest, treehouses, pillow forts, a child's own bedroom, playing blocks, Minecraft, etc. It's not like kids are often taught these skills--it is an intrinsic drive to build shelter and to have control over a certain part of their life. Even as adults, having a house, stable job, family, etc. is all about maintaining control. 
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/pillow-fort.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/shelter-cabin.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/fortnite-luxor.jpg">
 </div>
 <div class="col three caption">
-	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
-</div>
-<div class="img_row">
-	<img class="col two" src="/img/8.jpg">
-	<img class="col one" src="/img/10.jpg">
+	Pillow Fort, Shelter Cabin, Fortnite at Luxor Esports Arena picture by Luxor Hotel and Casino
 </div>
 
-Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally trust fund Pitchfork. Jean shorts Pinterest beard, farm-to-table irony craft beer swag tofu 8-bit Banksy. Quinoa forage fanny pack, pug hashtag Echo Park heirloom Schlitz tote bag artisan Neutra mumblecore 90's shabby chic raw denim.
+<a href="http://www.apa.org/monitor/mar06/childhood.aspx">Roger Hart, PhD</a>, Geographer and City University of New York professor of environmental and evelopmental psychology agrees; there are so many factors that go into how children develop, the way that children are growing up now, the way they interact with their environments are vastly different than the baseline data that Hart studied over 40 years ago. 
 
+Children need these creative outlets, but many socioeconomic factors come into play that influence how children growing up today find these creative outlets. For instance, Fortnite is a free to play game, game-ready devices are becoming more affordable, parents of higher income households often prefer to keep their children at home, etc. So it's no surprise that these factors have the power to influence such a young and powerful market. 
+
+Epic Games realizes the growing market potential that they hold, with such a large following of players essentially growing up on Fortnite, it makes sense the recent financial moves that they've made to keep Fortnite in the competitive spotlight. Namely, the $100 million prizepool invested by Epic Games into Fortnite Battle Royale, announced in 2018.
 
 <div class="img_row">
-	<img class="col one" src="/img/11.jpg">
-	<img class="col one" src="/img/12.jpg">
-	<img class="col one" src="/img/7.jpg">
+	<img class="col three" src="{{ site.baseurl }}/img/fortnite-100m.jpg">
+</div>
+<div class="col three caption">
+	$100 million investment by Epic Games into Fortnite Battle Royale
 </div>
