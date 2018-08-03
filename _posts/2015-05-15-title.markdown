@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esports - The "Fort" in Fortnite 
+title: The "Fort" in Fortnite 
 date: 2018-07-22 20:0:00
 description: Is the "Fort" part of Fortnite so important?
 ---
