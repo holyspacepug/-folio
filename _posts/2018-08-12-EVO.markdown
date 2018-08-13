@@ -1,0 +1,74 @@
+---
+layout: post
+title: EVO 2018
+date: 2018-08-12 20:0:00
+description: I went to EVO 2018 in Las Vegas!
+---
+I went to EVO for the first time this year and it was the second time I've been to Las Vegas, coincidentally both times attending an esports event.
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/evo-promo.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/dreamhack-masters.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/dota-ti4.jpg">
+</div>
+<div class="col three caption">
+	EVO 2018 (EVO/Robert Paul), DreamHack Masters 2017 (Yahoo Sports), and Dota 2 TI4
+</div>
+
+Last time I was in Vegas was when Kevin Hoang invited a few other collegiate leaders and yours truly to attend DreamHack Masters for CS:GO. At DreamHack Masters, I had a great time as an attendee---inspired by the event and the people that made the event so memorable. It was a good opportunity to broaden my horizons on how esports live-event productions varied from one another. Having only attended Valve's Dota 2 The International (2014-2017) prior to DreamHack Masters, I was excited to see how a multi-game open-tournament style event like EVO would be hosted.
+
+Oddly enough, going to EVO this year wasn't exactly planned in advance. It just turned out a bunch of my friends from different friend groups were also going to Vegas for either EVO, birthday celebrations, or Backstreet Boys. It was hard to say no to a weekend full of that, so I bought my tickets, booked my flight, packed my bags, and set out to have a good time. Plus it would be fun to actually walk The Strip, see a Vegas Show, and see what else Vegas had to offer.
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/vegas-dino.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/backstreet.jpg">
+</div>
+<div class="col three caption">
+	A Dino Rickshaw on Fremont and Backstreet Boys
+</div>
+
+Day 1 of EVO---held in the Mandalay Bay Convention Center, it was the first day of qualification pools or "pools," which where competitors are thrown into matches against each other to see who was worthy of rising above and onto the next challenge. My friends gave it their best shot but ultimately "drowned in pools." Unlike an invitational, an open-tournament event like EVO allowed professional players to play against other pros in the pool or even players who may be completely new to the game.
+
+Within less than an hour, a player could be out of the tournament. As brutal as it is, even with some games cherry-picked to be streamed live to the world, players held their heads up and showed their opponents respect even after the match was over. EVO is about one player against another, a level playing field, a true display of skill, no room for mistakes, and no time for excuses.
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/erik-evo.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/doom-phoenix.jpg">
+</div>
+<div class="col three caption">
+	My friend Erik in qualifying pools matches and a Doctor Doom/Phoenix Wright cosplay (need credit)
+</div>
+
+After my friend's pools, I made time to explore other setups, browse through the exhibitor booths---where one could find EVO merch, demo new/up-and-coming fighting games, and even feel and take home their own fight stick of choice, and lastly peruse the Artist Alley area. Although I did not attend EVO in the past, after talking to some attendees, many are saying it's starting to feel more than just the usual EVO tournament experience.
+
+With Cygames hosting EVO 2018, it definitely feels like the FGC is picking up more eyes than ever before, especially with the promotional boost from last year's ESPN and Disney XD television broadcasts. Paying attention to how the FGC will transform from here on out is a must as the scene continues to gain more traction.
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/gllty-non2.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/smash-evo.jpg">
+</div>
+<div class="col three caption">
+	 A poloroid of Nonsummerjack, myself, and Grapht - Gllty and Smash banner at EVO 2018
+</div>
+
+Day 2 of EVO was a little more relaxed, with my friends' EVO journey ending on Day 1. It left me with plenty of time to just hang with friends and take a dip in the pool---a real pool not the fighting game kind. I did another lap around the Mandalay Bay Convention Center before heading out to The Strip to meet up with friends to hang out.
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/evo-brunch.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/paris-vegas.jpg">
+</div>
+<div class="col three caption">
+	Brunch with friends at the Wynn Hotel and the Eiffel Tower in Paris Las Vegas
+</div>
+
+Day 3 of EVO---the last day of EVO and the culminating moment for each player in finals, the world would find out who would be crowned the best of the best. Although I was primarily interested in the Smash and Street Fighter V finals, I did manage to catch the DragonBall FighterZ finals between Echo Fox's SonicFox versus CYCLOPS Athlete Gaming's GO1. Between the Cell screams and fans cheering for their favorite players, you could feel the electricity in the air. Mad respect to the FGC community and the zeal they bring to these events.
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/sonicfox-evo.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/evo-cell.jpg">
+</div>
+<div class="col three caption">
+	Echo Fox Sonic Fox takes DBFZ EVO 2018 as champion, Cell from DBFZ
+</div>
+
+As fun as it looked, I didn't compete at EVO this year. My schedule was already packed, nevertheless I enjoyed my time as a spectator---watching the legendary FGC event unfold in-person was absolutely a sight to behold. However, I did pick up Street Fighter V: Arcade Edition, Tekken 7, and Guilty Gear Xrd -REVELATOR- on Steam to hopefully get enough practice in for next year's EVO, possibly returning as a player and not just a spectator!
