@@ -1,0 +1,59 @@
+---
+layout: post
+title: NA LCS Finals 2018
+date: 2018-09-09 20:0:00
+description: I went to the 2018 NA LCS Finals!
+---
+This year I attended the League of Legends 2018 North American League Championship Series! It was the first season of NA's fully professional league with the new partnership structure where teams would buy in to the franchise at a price of $10M per team.
+
+To add on top, it was actually the first in-person League of Legends tournament that I attended. Held in Oakland, California at the Oracle Arena, the 2018 NA LCS Finals was not too far of a drive away for me, so I decided to get out for the weekend and check it out!
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/nalcs-me.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/nalcs-sat-stage.jpg">
+</div>
+<div class="col three caption">
+	Me before driving to Oakland and the 2018 NA LCS Stage on Saturday
+</div>
+
+I woke up late on the first day and only managed to catch the last two games between 100 Thieves and Team Solo Mid, as well as the <a href="https://www.youtube.com/watch?v=hWnmIvTnf0w">All-Stars game</a>. However, it was apparent that Sion and Kai'Sa were often picked with each other in the main matches, with Sion expending the enemy's skill cool downs, spacing, and overall momentum, while Kai'Sa dealt damage from the back using her long ranged skill set to melt enemy champions. This was a recurring trend for the even the following day's game between Team Liquid versus Cloud9, with no hint of banning either of these two core champions.
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/nalcs-sion.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/nalcs-tyler1.jpg">
+</div>
+<div class="col three caption">
+	Sion and a picture of Tyler1 and Phreak during their pre-game interview
+</div>
+
+The All-Stars game on Saturday was full of hilarity and ended the night on a lighter note. After the last match between 100 Thieves and TSM, various League of Legends personalities came out to face off against each other, such as Imaqtpie, Phreak, and Tyler1 to name a few. Yes, the Tyler1 that was thought to be permanently banned in 2017 for displaying toxic behavior in-game was being interviewed and even given the chance to play on the same stage of the 2018 NA LCS Finals. If I asked someone if they thought this would be possible a year ago, I think they would have laughed in my face. Tyler1 has since come a long way and it was refreshing to see him and the rest of the personalities on stage interacting with each other, making ridiculous in-game plays.
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/nalcs-sunday.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/nalcs-demo.jpg">
+</div>
+<div class="col three caption">
+	My friends and I on Sunday of 2018 NA LCS Finals and the end of one of the game demos
+</div>
+
+For the final showdown of the 2018 NA LCS Finals title, a few friends and I managed to arrive the next day at a far earlier time. Near the entrances, teams and sponsors had booths set up for demos, promotions, and giveaways which would have been interesting to check out---that is, if you managed to get to the venue ahead of time since the lines became incredibly long by the time we arrived. I at least got to try out a few of the games that Riot had set up from their Hackathons!
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/nalcs-tibbers.jpg">
+	<img class="col two" src="{{ site.baseurl }}/img/nalcs-sun-stage.jpg">
+</div>
+<div class="col three caption">
+	Tibbers and the NA LCS Finals stage on Sunday
+</div>
+
+Upon entering the venue, my friends and I headed straight for the merchandise booth because they wanted to buy their goods before the games started. I think almost all of us got one of the $30 plush Tibbers (so soft) and we managed to get to our seats right before the first game commenced. After quick inspection of each respective team's picks and bans, I could only guess how the games could go based one what I saw yesterday between 100 Thieves and TSM. Sure enough, Sion made it through each time and in every game against Sion, the opposing team had a rough time gaining steady footing. The series ended swiftly and the winners of the 2018 NA LCS Finals title surely deserved their win after near perfect execution of each player's skill sets.
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/nalcs-winners.jpg">
+	<img class="col one" src="{{ site.baseurl }}/img/nalcs-leaving.jpg">
+</div>
+<div class="col three caption">
+	2018 NA LCS Finals Winners celebrating and my friends and I leaving on the BART (my first time on it)
+</div>
+
+My friends and I took the BART from the arena shortly after the last match in the series ended, and I headed back home from there. The 2018 NA LCS was by far the smallest esports tournament I attended, but the enthusiasm from the fans at the Oracle Arena for the NA LCS Finals weekend definitely matched that of the other events I've been to. Until next time, NA LCS.
